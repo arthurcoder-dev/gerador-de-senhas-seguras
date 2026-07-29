@@ -10,7 +10,7 @@ tamanho_da_senha = int(input("\nBem-vindo(a) ao Gerador de Senha Seguras\n\nPor 
 # Criação dos caractéres
 maiusculas = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 minusculas = "abcdefghijklmnopqrstuvwxyz"
-numeros = "111222333444555666777888999"
+numeros = "000111222333444555666777888999"
 simbolos = "!@#$%&*"
 
 # Confirmações
