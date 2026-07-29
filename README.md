@@ -1,4 +1,4 @@
-# 🔐 Secure Password Generator
+# 🔐 Gerador de Senhas Seguras
 
 Um gerador de senhas seguras desenvolvido em Python como projeto
 de aprendizado e prática de programação.
